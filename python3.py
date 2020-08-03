@@ -62,7 +62,7 @@ def sum(x,y,z):
         sum = 0
     else:
       sum = x+y+z
-      return sum
+      return True
 print(sum(1,2,3))
 
 #
