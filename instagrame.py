@@ -39,6 +39,7 @@ class student:
 st=student
 st()
 #opening website with python
-#import webbrowser
-#url = 'https://www.facebook.com'
-#webbrowser.open(url)
+import webbrowser
+url = 'https://www.facebook.com'
+webbrowser.open(url)
+
